@@ -16,6 +16,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25594945/debojit-sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25594945/debojit-sikdar" height="30" width="40" /></a>
 <a href="https://instagram.com/debojit_sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debojit_sikdar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/debojitsikdar06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debojitsikdar06/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/debojitsp8mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/debojitsp8mr/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
